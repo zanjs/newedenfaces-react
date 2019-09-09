@@ -1,5 +1,7 @@
 # New Eden Faces (React)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zanjs/newedenfaces-react.svg)](https://greenkeeper.io/)
+
 **Source code** for [
 Create a character voting app using React, Node.js, MongoDB and Socket.IO](http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/).
 
